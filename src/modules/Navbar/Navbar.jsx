@@ -15,8 +15,6 @@ const Navbar = () => {
     <div>
       <div>
         <div>
-          <Link to="/">Logo</Link>
-          {/* <NavbarMenu /> */}
           {!isLogin && <NavbarAuth />}
           {isLogin && <NavbarUser />}
         </div>

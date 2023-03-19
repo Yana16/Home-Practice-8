@@ -1,11 +1,22 @@
 import { NavLink } from 'react-router-dom';
-// import styles from '../../../modules/Navbar/NavbarAuth/navbar-auth.module.scss';
+import styles from '../../../modules/Navbar/NavbarAuth/navbar-auth.module.scss';
 
 const NavbarAuth = () => {
   return (
     <div>
-      <NavLink to="/register">Registration</NavLink> |
-      <NavLink to="/login">Login</NavLink>
+      <NavLink to="/" className={styles.link}>
+        Home Page
+      </NavLink>{' '}
+      |
+      <NavLink to="/registration" className={styles.link}>
+        {' '}
+        Registration
+      </NavLink>{' '}
+      |
+      <NavLink to="/login" className={styles.link}>
+        {' '}
+        Login
+      </NavLink>
     </div>
   );
 };

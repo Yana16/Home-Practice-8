@@ -25,16 +25,3 @@ export const login = createAsyncThunk(
     }
   }
 );
-
-// export const current = createAsyncThunk(
-//   'auth/current',
-//   async (_, { rejectWithValue, getState }) => {
-//     try {
-//       const { auth } = getState();
-//       const data = await api.getCurrent(auth.token);
-//       return data;
-//     } catch ({ response }) {
-//       return rejectWithValue(response);
-//     }
-//   }
-// );
