@@ -1,0 +1,8 @@
+.link {
+    text-decoration: none;
+    color: blue;
+
+    &:global(.active) {
+        font-weight: bold;
+    }
+}
