@@ -1,14 +1,14 @@
-import { useEffect } from 'react';
-import { useDispatch } from 'react-redux';
+// import { useEffect } from 'react';
+// import { useDispatch } from 'react-redux';
 
-const AuthLayout = ({ children }) => {
-  const dispatch = useDispatch();
+// const AuthLayout = ({ children }) => {
+//   const dispatch = useDispatch();
 
-  useEffect(() => {
-    dispatch(current());
-  }, [dispatch]);
+//   useEffect(() => {
+//     dispatch(current());
+//   }, [dispatch]);
 
-  return <>{children}</>;
-};
+//   return <>{children}</>;
+// };
 
-export default AuthLayout;
+// export default AuthLayout;

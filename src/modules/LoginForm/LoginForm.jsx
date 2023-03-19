@@ -5,7 +5,7 @@ import Button from '../../shared/components/Button/Button';
 
 import initialState from '../RegisterForm/initialState';
 
-import styles from '../../modules/RegisterForm/register-form.module.scss';
+import styles from '../LoginForm/login-form.module.scss';
 
 const LoginForm = ({ onSubmit }) => {
   const { state, handleChange, handleSubmit } = useForm({
