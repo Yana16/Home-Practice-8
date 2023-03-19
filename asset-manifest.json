@@ -1,18 +1,13 @@
 {
   "files": {
-    "main.js": "/Home-Practice-8/static/js/main.2377ce05.js",
-    "static/css/420.2dfaaedc.chunk.css": "/Home-Practice-8/static/css/420.2dfaaedc.chunk.css",
-    "static/js/420.7e545235.chunk.js": "/Home-Practice-8/static/js/420.7e545235.chunk.js",
-    "static/css/644.a8d671f8.chunk.css": "/Home-Practice-8/static/css/644.a8d671f8.chunk.css",
-    "static/js/644.2d59e5a5.chunk.js": "/Home-Practice-8/static/js/644.2d59e5a5.chunk.js",
+    "main.css": "/Home-Practice-8/static/css/main.9e0d6676.css",
+    "main.js": "/Home-Practice-8/static/js/main.1f917bc5.js",
     "index.html": "/Home-Practice-8/index.html",
-    "main.2377ce05.js.map": "/Home-Practice-8/static/js/main.2377ce05.js.map",
-    "420.2dfaaedc.chunk.css.map": "/Home-Practice-8/static/css/420.2dfaaedc.chunk.css.map",
-    "420.7e545235.chunk.js.map": "/Home-Practice-8/static/js/420.7e545235.chunk.js.map",
-    "644.a8d671f8.chunk.css.map": "/Home-Practice-8/static/css/644.a8d671f8.chunk.css.map",
-    "644.2d59e5a5.chunk.js.map": "/Home-Practice-8/static/js/644.2d59e5a5.chunk.js.map"
+    "main.9e0d6676.css.map": "/Home-Practice-8/static/css/main.9e0d6676.css.map",
+    "main.1f917bc5.js.map": "/Home-Practice-8/static/js/main.1f917bc5.js.map"
   },
   "entrypoints": [
-    "static/js/main.2377ce05.js"
+    "static/css/main.9e0d6676.css",
+    "static/js/main.1f917bc5.js"
   ]
 }
