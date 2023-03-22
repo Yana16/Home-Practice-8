@@ -15,7 +15,7 @@ const LoginPage = () => {
   };
 
   if (isLogin) {
-    return <Navigate to="/" />;
+    return <Navigate to="/contacts" />;
   }
 
   return (
