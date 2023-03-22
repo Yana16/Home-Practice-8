@@ -5,7 +5,7 @@ const NavbarAuth = () => {
   return (
     <div>
       <NavLink to="/" className={styles.link}>
-        Home Page
+        Contacts Page
       </NavLink>{' '}
       |
       <NavLink to="/registration" className={styles.link}>
