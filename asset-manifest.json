@@ -1,13 +1,25 @@
 {
   "files": {
-    "main.css": "/Home-Practice-8/static/css/main.9e0d6676.css",
-    "main.js": "/Home-Practice-8/static/js/main.1f917bc5.js",
+    "main.css": "/Home-Practice-8/static/css/main.e1e46004.css",
+    "main.js": "/Home-Practice-8/static/js/main.5e7de6ca.js",
+    "static/css/470.bb4a456b.chunk.css": "/Home-Practice-8/static/css/470.bb4a456b.chunk.css",
+    "static/js/470.1ff6a4c5.chunk.js": "/Home-Practice-8/static/js/470.1ff6a4c5.chunk.js",
+    "static/css/644.a8d671f8.chunk.css": "/Home-Practice-8/static/css/644.a8d671f8.chunk.css",
+    "static/js/644.e2a9d769.chunk.js": "/Home-Practice-8/static/js/644.e2a9d769.chunk.js",
+    "static/css/169.b850b98d.chunk.css": "/Home-Practice-8/static/css/169.b850b98d.chunk.css",
+    "static/js/169.95ad86c9.chunk.js": "/Home-Practice-8/static/js/169.95ad86c9.chunk.js",
     "index.html": "/Home-Practice-8/index.html",
-    "main.9e0d6676.css.map": "/Home-Practice-8/static/css/main.9e0d6676.css.map",
-    "main.1f917bc5.js.map": "/Home-Practice-8/static/js/main.1f917bc5.js.map"
+    "main.e1e46004.css.map": "/Home-Practice-8/static/css/main.e1e46004.css.map",
+    "main.5e7de6ca.js.map": "/Home-Practice-8/static/js/main.5e7de6ca.js.map",
+    "470.bb4a456b.chunk.css.map": "/Home-Practice-8/static/css/470.bb4a456b.chunk.css.map",
+    "470.1ff6a4c5.chunk.js.map": "/Home-Practice-8/static/js/470.1ff6a4c5.chunk.js.map",
+    "644.a8d671f8.chunk.css.map": "/Home-Practice-8/static/css/644.a8d671f8.chunk.css.map",
+    "644.e2a9d769.chunk.js.map": "/Home-Practice-8/static/js/644.e2a9d769.chunk.js.map",
+    "169.b850b98d.chunk.css.map": "/Home-Practice-8/static/css/169.b850b98d.chunk.css.map",
+    "169.95ad86c9.chunk.js.map": "/Home-Practice-8/static/js/169.95ad86c9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e0d6676.css",
-    "static/js/main.1f917bc5.js"
+    "static/css/main.e1e46004.css",
+    "static/js/main.5e7de6ca.js"
   ]
 }
