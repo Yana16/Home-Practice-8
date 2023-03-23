@@ -3,9 +3,7 @@ import { configureStore } from '@reduxjs/toolkit';
 import { rootReducer } from '../redux/root-reducer';
 
 const store = configureStore({
-  reducer: {
-    auth: rootReducer,
-  },
+  reducer: rootReducer,
 });
 
 export default store;

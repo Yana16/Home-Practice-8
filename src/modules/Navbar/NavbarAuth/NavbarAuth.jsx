@@ -4,7 +4,7 @@ import styles from '../../../modules/Navbar/NavbarAuth/navbar-auth.module.scss';
 const NavbarAuth = () => {
   return (
     <div>
-      <NavLink to="/" className={styles.link}>
+      <NavLink to="/contact" className={styles.link}>
         Contacts Page
       </NavLink>{' '}
       |

@@ -11,6 +11,7 @@ const App = () => {
   return (
     <Provider store={store}>
       <Navbar />
+
       <UserRoutes />
     </Provider>
   );
